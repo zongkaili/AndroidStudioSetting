@@ -5,6 +5,4 @@
 Android Studio 依次选File--->Import Settings , 然后选择根目录下的settings.jar包导入即可
 ### 效果如下：
 
-![image](https://github.com/zongkaili/MyTestCoordinatorLayout-master/blob/master/screenshot/device-2016-12-28-104145.jpg)
-![image](https://github.com/zongkaili/MyTestCoordinatorLayout-master/blob/master/screenshot/device-2016-12-28-104254.jpg)
-![image](https://github.com/zongkaili/MyTestCoordinatorLayout-master/blob/master/screenshot/device-2016-12-28-104337.jpg)
+![image](https://github.com/zongkaili/AndroidStudioSetting/blob/master/%E6%88%AA%E5%9B%BE.png)

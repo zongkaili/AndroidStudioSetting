@@ -1,6 +1,6 @@
 # StudioSetting
  - 导入settings.jar，方便设置代码风格
- 编写Android studio插件教程：
+ - 编写Android studio插件教程： 
  http://mp.weixin.qq.com/s/tW8AA4mRasL3UjRMuWB4rQ
  
  
